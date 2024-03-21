@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/nvNvniOIQsudL5kB7qstIRC+L63K9jzSs0nV+WawJ9/Md22qYUR3KrNTAtwherTIGfivQmXFsy5G4XLK0a8A==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\CryptoTestingW24\\CryptoTestingW24\\CryptoTestingW24.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elizasorensen\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
